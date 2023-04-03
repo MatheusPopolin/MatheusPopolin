@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Matheus Popolin, Dev Full  e estudante de desenvolvimento web.
+# Olá! 👋 Eu sou o Matheus Popolin, Dev Full Stack e estudante de desenvolvimento web.
 
 
 ## 🌐 Socials:
