@@ -1,9 +1,9 @@
-# Olá! 👋 Eu sou o Matheus Popolin, Dev Full Stack e estudante de desenvolvimento web.
+# Olá! 👋 Eu sou o Matheus Popolin, Dev Full Stack.
 
 
 # 💫 Sobre mim:
-🔭 Atualmente estou trabalhando como monitor de back-end na Kenzie Academy Brasil<br>
-🌱 Atualmente estou aprendendo Python e Django<br>
+🔭 Atualmente estou trabalhando como desenvolvedor front end<br>
+🌱 Atualmente estou aprendendo PHP e Laravel<br>
 
 
 ## 🌐 Redes Sociais:
