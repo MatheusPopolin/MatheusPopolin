@@ -2,7 +2,7 @@
 
 
 # 💫 Sobre mim:
-🔭 Atualmente estou trabalhando como desenvolvedor front end<br>
+🔭 Atualmente estou trabalhando como Squad Lead<br>
 🌱 Atualmente estou aprendendo PHP e Laravel<br>
 
 
