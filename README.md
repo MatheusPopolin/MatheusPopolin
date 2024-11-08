@@ -1,9 +1,9 @@
-# Olá! 👋 Eu sou o Matheus Popolin, Dev Full Stack.
+# Olá! 👋 Eu sou o Matheus Popolin, Dev Front End.
 
 
 # 💫 Sobre mim:
-🔭 Atualmente estou trabalhando como Squad Lead<br>
-🌱 Atualmente estou aprendendo PHP e Laravel<br>
+🔭 Atualmente estou em busca de oportunidades como Desenvolvedor Front End<br>
+🌱 Atualmente estou estudando Nuxt.js e Storybook<br>
 
 
 ## 🌐 Redes Sociais:
