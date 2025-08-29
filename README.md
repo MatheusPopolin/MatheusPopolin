@@ -1,11 +1,6 @@
 # Olá! 👋 Eu sou o Matheus Popolin, Dev Front End.
 
 
-# 💫 Sobre mim:
-🔭 Atualmente estou em busca de oportunidades como Desenvolvedor Front End<br>
-🌱 Atualmente estou estudando Nuxt.js e Storybook<br>
-
-
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/matheus_popolin) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheuspopolin) 
